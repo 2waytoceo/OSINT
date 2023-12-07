@@ -18,8 +18,8 @@ https://osintframework.com
 (M) - Indicates a URL that contains the search term and the URL itself must be edited manually  
 
 ### For Update Notifications
-Follow me on Twitter: @jnordine - https://twitter.com/jnordine  
-Watch or star the project on Github: https://github.com/lockfale/osint-framework
+Follow me on Twitter: @2waytoceo - https://twitter.com/2waytoceo  
+Watch or star the project on Github: https://github.com/2waytoceo/OSINT
 
 ### Suggestions, Comments, Feedback
 Feedback or new tool suggestions are extremely welcome!  Please feel free to submit a pull request or open an issue on github or reach out on Twitter.
